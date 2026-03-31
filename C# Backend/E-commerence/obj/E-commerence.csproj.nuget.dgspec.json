@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HomePC\\Documents\\E-commerence\\C# Backend\\E-commerence\\E-commerence.csproj": {}
+    "C:\\Users\\HomePC\\Documents\\E-commerence\\C# backend\\E-commerence\\E-commerence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HomePC\\Documents\\E-commerence\\C# Backend\\E-commerence\\E-commerence.csproj": {
+    "C:\\Users\\HomePC\\Documents\\E-commerence\\C# backend\\E-commerence\\E-commerence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# Backend\\E-commerence\\E-commerence.csproj",
+        "projectUniqueName": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# backend\\E-commerence\\E-commerence.csproj",
         "projectName": "E-commerence",
-        "projectPath": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# Backend\\E-commerence\\E-commerence.csproj",
+        "projectPath": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# backend\\E-commerence\\E-commerence.csproj",
         "packagesPath": "C:\\Users\\HomePC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# Backend\\E-commerence\\obj\\",
+        "outputPath": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# backend\\E-commerence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HomePC\\AppData\\Roaming\\NuGet\\NuGet.Config"

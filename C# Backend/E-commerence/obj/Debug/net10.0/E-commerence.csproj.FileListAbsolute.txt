@@ -170,3 +170,4 @@ C:\Users\HomePC\Documents\E-commerence\C# Backend\E-commerence\bin\Debug\net10.0
 C:\Users\HomePC\Documents\E-commerence\C# Backend\E-commerence\obj\Debug\net10.0\E-commerence.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\HomePC\Documents\E-commerence\C# Backend\E-commerence\bin\Debug\net10.0\http-client.env.json
 C:\Users\HomePC\Documents\E-commerence\C# Backend\E-commerence\bin\Debug\net10.0\http-client.private.env.json
+C:\Users\HomePC\Documents\E-commerence\C# backend\E-commerence\obj\Debug\net10.0\E-commerence.sourcelink.json

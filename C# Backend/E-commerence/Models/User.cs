@@ -11,5 +11,9 @@ namespace E_commerence.Models
 
         public DateOnly DateOfBirth { get; set; } = new DateOnly();
         public bool IsVerified { get; set; } = false;
+
+        public ICollection<CartItem> CartItems { get; set; }
+        public ICollection<Order> Orders { get; set; }
+        public ICollection<Notification> Notifications { get; set; }
     }
 }
