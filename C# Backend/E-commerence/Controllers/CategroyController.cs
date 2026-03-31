@@ -131,6 +131,8 @@ public class CategroyController : Controller
             _context.Categroies.Update(findAsync);
             
             await _context.SaveChangesAsync();
+
+            return NoContent();
         }
         catch (Exception e)
         {
