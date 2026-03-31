@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FKZB7tf9OWc=",
+  "dgSpecHash": "dKrMJ0h3qU4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# backend\\E-commerence\\E-commerence.csproj",
+  "projectFilePath": "C:\\Users\\HomePC\\Documents\\E-commerence\\C# Backend\\E-commerence\\E-commerence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HomePC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HomePC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.0\\microsoft.aspnetcore.authentication.jwtbearer.10.0.0.nupkg.sha512",
